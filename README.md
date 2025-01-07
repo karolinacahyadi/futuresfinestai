@@ -6,8 +6,14 @@ This project developed an AI-powered game advisor chatbot using the GPT-4o Mini 
 
 Key Features:
 
-Five essential tools: Game comparison, reviews visualization, details retrieval, price checks, and personalized advice.
-Feedback system for continuous improvement.
-FAQ integration for quick answers to common game-related questions.
-Efficient prompt templates to enhance response accuracy and speed.
+Five essential tools: 
+- Game comparison
+- Reviews visualization
+- Details retrieval
+- Price checks
+- Personalized advice.
+- Feedback system for continuous improvement.
+- FAQ integration for quick answers to common game-related questions.
+- Efficient prompt templates to enhance response accuracy and speed.
+- 
 Technologies Used: LangChain, Qdrant, RAG Database, FastAPI, Streamlit, Python, API Integration.
